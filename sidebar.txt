@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dtd:home|Door43 (dtd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dtd|d43-dtd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dtd/archive/master.zip|d43-dtd.zip]]
+
+**Recent Changes**
+{{changes>ns = dtd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dtd|Ethnologue data]]
+
